@@ -1,17 +1,22 @@
 {
-  "DocVersion": "1.0.0",
-  "StudioMinVersion": "2025.04.0",
   "SolutionId": "c526a78f-fbcb-48bb-a2fe-bdda0eeb1566",
   "Projects": [
     {
+      "Id": "4560cb9e-d699-412d-b8c9-f4a8e249f047",
       "Type": "Agent",
-      "ProjectRelativePath": "Agent/project.uiproj",
-      "Id": "4560cb9e-d699-412d-b8c9-f4a8e249f047"
+      "ProjectRelativePath": "Agent/project.uiproj"
     },
     {
+      "Id": "6822625d-5d65-40ca-8ddc-fee567e98f53",
       "Type": "Process",
-      "ProjectRelativePath": "RPATool/project.uiproj",
-      "Id": "6822625d-5d65-40ca-8ddc-fee567e98f53"
+      "ProjectRelativePath": "RPATool/project.uiproj"
+    },
+    {
+      "Id": "af4667ad-6ead-4c82-b342-99984354b654",
+      "Type": "ProcessOrchestration",
+      "ProjectRelativePath": "MyProcess/project.uiproj"
     }
-  ]
+  ],
+  "DocVersion": "1.0.0",
+  "StudioMinVersion": "2025.04.0"
 }
